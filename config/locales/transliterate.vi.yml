@@ -1,9 +1,10 @@
-vi:
-  i18n:
-    transliterate:
-      rule:
-       ̣:""
-       ̉:""
-       ̃:""
-       ̀:""
-       ́:""
+#vi:
+#  i18n:
+#    transliterate:
+#      rule:
+#       ̣:""
+#       ̉:""
+#       ̃:""
+#       ̀:""
+#       ́:""
+#
