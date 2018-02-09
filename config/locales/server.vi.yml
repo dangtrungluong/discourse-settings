@@ -1,10 +1,11 @@
-welcome_user:
+system_messages:
+ welcome_user:
   text_body_template: |
       Cảm ơn bạn đã tham gia %{site_name}, và chào mừng bạn!
       %{new_user_tips}
       Chúng tôi tin vào [hành vi cộng đồng văn minh](%{base_url}/guidelines) vào bất cứ lúc nào.
       Trân trọng!
-welcome_invite:
+ welcome_invite:
   text_body_template: |
       Cảm ơn bạn đã chấp nhận lời mời tham gia %{site_name} - chào mừng!
       - Chúng tôi đã tạo tài khoản mới này **%{username}** cho bạn. Thay đổi tên hoặc mật khẩu của bạn bằng cách truy cập [hồ sơ người dùng của bạn][prefs].
